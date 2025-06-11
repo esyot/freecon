@@ -22,8 +22,8 @@
   -webkit-mask-image: url("./icons/brands/ig.svg");
 }
 
-.brand-instagram-default {
-  background-image: url("./icons/brands/ig-default.svg");
+.brand-instagram-stock {
+  background-image: url("./icons/brands/ig-stock.svg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: contain;
@@ -31,8 +31,25 @@
   background-color: transparent;
 }
 
-.brand-twitter-default {
+.brand-twitter-new-stock {
   background-image: url("./icons/brands/tt.svg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  display: inline-block;
+  background-color: transparent;
+}
+
+.brand-twitter-old-stock {
+  background-image: url("./icons/brands/tt-old-stock.svg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  display: inline-block;
+  background-color: transparent;
+}
+.brand-linkedin-stock {
+  background-image: url("./icons/brands/linkedin-stock.svg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: contain;
@@ -50,8 +67,13 @@
   -webkit-mask-image: url("./icons/brands/li.svg");
 }
 
-.brand-gmail-default {
-  background-image: url("./icons/brands/gm.svg");
+.brand-telegram {
+  mask-image: url("./icons/brands/tg.svg");
+  -webkit-mask-image: url("./icons/brands/li.svg");
+}
+
+.brand-gmail-stock {
+  background-image: url("./icons/brands/gm-stock.svg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: contain;
@@ -59,8 +81,21 @@
   background-color: transparent;
 }
 
-.brand-telegram-default {
-  background-image: url("./icons/brands/tg-default.svg");
+.brand-youtube {
+  mask-image: url("./icons/brands/yt.svg");
+  -webkit-mask-image: url("./icons/brands/yt.svg");
+}
+.brand-youtube-stock {
+  background-image: url("./icons/brands/yt-stock.svg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  display: inline-block;
+  background-color: transparent;
+}
+
+.brand-telegram-stock {
+  background-image: url("./icons/brands/tg-stock.svg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: contain;
@@ -72,6 +107,26 @@
 .icon-trashcan {
   mask-image: url("./icons/figures/trashcan.svg");
   -webkit-mask-image: url("./icons/figures/trashcan.svg");
+}
+.icon-home {
+  mask-image: url("./icons/figures/home.svg");
+  -webkit-mask-image: url("./icons/figures/home.svg");
+}
+.icon-heart {
+  mask-image: url("./icons/figures/heart.svg");
+  -webkit-mask-image: url("./icons/figures/heart.svg");
+}
+.icon-send {
+  mask-image: url("./icons/figures/send.svg");
+  -webkit-mask-image: url("./icons/figures/send.svg");
+}
+.icon-hamburger {
+  mask-image: url("./icons/figures/hamburger.svg");
+  -webkit-mask-image: url("./icons/figures/hamburger.svg");
+}
+.icon-sign {
+  mask-image: url("./icons/figures/sign.svg");
+  -webkit-mask-image: url("./icons/figures/sign.svg");
 }
 .icon-circle {
   mask-image: url("./icons/figures/circle.svg");
