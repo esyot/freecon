@@ -5,8 +5,8 @@
 
 .freecon {
   display: inline-block;
-  width: 1em;
-  height: 1em;
+  width: 24px;
+  height: 24px;
   background-color: currentColor;
   mask-repeat: no-repeat;
   mask-position: center;
@@ -51,6 +51,7 @@
   background-image: url("./icons/brands/gm-default.svg");
   background-color: transparent;
 }
+
 .brand-telegram-default {
   background-image: url("./icons/brands/tg-default.svg");
   background-color: transparent;
