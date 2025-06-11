@@ -1,7 +1,7 @@
-@import url("/css/icon-sizing.css");
-@import url("/css/icon-coloring.css");
-@import url("/css/icon-rounding.css");
-@import url("/css/icon-.css");
+@import url("https://cdn.jsdelivr.net/gh/esyot/freecon@main/css/icon-sizing.css");
+@import url("https://cdn.jsdelivr.net/gh/esyot/freecon@main/css/icon-coloring.css");
+@import url("https://cdn.jsdelivr.net/gh/esyot/freecon@main/css/icon-rounding.css");
+@import url("https://cdn.jsdelivr.net/gh/esyot/freecon@main/css/icon-hovering.css");
 
 .freecon {
   display: inline-block;
