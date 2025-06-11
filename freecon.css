@@ -16,6 +16,14 @@
   mask-image: url("./icons/brands/fb.svg");
   -webkit-mask-image: url("./icons/brands/fb.svg");
 }
+.brand-facebook-stock {
+  background-image: url("./icons/brands/fb-stock.svg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  display: inline-block;
+  background-color: transparent;
+}
 
 .brand-instagram {
   mask-image: url("./icons/brands/ig.svg");
@@ -36,6 +44,46 @@
 
 .brand-instagram-stock {
   background-image: url("./icons/brands/ig-stock.svg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  display: inline-block;
+  background-color: transparent;
+}
+.brand-bdo-stock {
+  background-image: url("./icons/brands/bdo-stock.svg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  display: inline-block;
+  background-color: transparent;
+}
+.brand-pnb-stock {
+  background-image: url("./icons/brands/pnb-stock.svg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  display: inline-block;
+  background-color: transparent;
+}
+.brand-nbi-stock {
+  background-image: url("./icons/brands/nbi-stock.svg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  display: inline-block;
+  background-color: transparent;
+}
+.brand-dict-stock {
+  background-image: url("./icons/brands/dict-stock.svg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  display: inline-block;
+  background-color: transparent;
+}
+.brand-psa-stock {
+  background-image: url("./icons/brands/psa-stock.svg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: contain;
@@ -237,6 +285,40 @@
 .icon-check {
   mask-image: url("./icons/figures/check.svg");
   -webkit-mask-image: url("./icons/figures/check.svg");
+}
+
+/* flags */
+.flag-ph {
+  background-image: url("./icons/flags/ph.svg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  display: inline-block;
+  background-color: transparent;
+}
+.flag-us {
+  background-image: url("./icons/flags/us.svg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  display: inline-block;
+  background-color: transparent;
+}
+.flag-jp {
+  background-image: url("./icons/flags/jp.svg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  display: inline-block;
+  background-color: transparent;
+}
+.flag-ch {
+  background-image: url("./icons/flags/ch.svg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  display: inline-block;
+  background-color: transparent;
 }
 
 /* Sizing */
