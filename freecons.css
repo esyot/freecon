@@ -48,3 +48,7 @@
   mask-image: url("./icons/figures/trashcan.svg");
   -webkit-mask-image: url("./icons/figures/trashcan.svg");
 }
+.icon-circle {
+  mask-image: url("./icons/figures/circle.svg");
+  -webkit-mask-image: url("./icons/figures/circle.svg");
+}
