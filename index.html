@@ -7,7 +7,7 @@
     <script src="https://cdn.tailwindcss.com"></script>
     <link
       rel="stylesheet"
-      href="https://cdn.jsdelivr.net/gh/esyot/freecon@aedd4c8/freecon.css"
+      href="https://cdn.jsdelivr.net/gh/esyot/freecon@4c5c98c/freecon.css"
     />
   </head>
 
@@ -33,22 +33,21 @@
         <i class="freecon brand-telegram-stock icon-2x icon-hover-jump"></i>
         <i class="freecon brand-mlhuillier-stock icon-2x icon-hover-jump"></i>
         <i class="freecon brand-gcash-stock icon-2x icon-hover-jump"></i>
-        <i class="freecon brand-paypal-stock icon-2x icon-hover-jump"></i>
       </div>
     </section>
 
     <section class="py-16 px-6 md:px-20 bg-gray-100">
       <div class="max-w-4xl mx-auto">
         <h2 class="text-3xl font-semibold text-gray-900 mb-4">About FREECON</h2>
-        <p class="text-lg text-gray-700 leading-relaxed">
-          FREECON is a powerful and flexible open-source icon library designed
-          with developers in mind. Built by developers, for developers, it
-          offers a growing collection of clean, modern, and fully scalable icons
-          that can be used freely in both personal and commercial projects.
-          FREECON was developed with the goal of making beautiful, performant
-          user interfaces more accessible to everyone. Whether you're building a
-          web app, mobile app, or design prototype, FREECON provides the tools
-          you need to create consistent and visually appealing
+        <p class="text-lg text-gray-700 text-justify">
+          FREECON is a user-friendly and flexible open-source icon library
+          designed with developers in mind. Built by a developer, for
+          developers, it offers a growing collection of clean, modern, and fully
+          scalable icons that can be used freely in both personal and commercial
+          projects. FREECON was developed with the goal of making beautiful,
+          performant user interfaces more accessible to everyone. Whether you're
+          building a web app, mobile app, or design prototype, FREECON provides
+          the tools you need to create consistent and visually appealing
           experiences—without worrying about licensing restrictions or bloated
           design assets.
         </p>
@@ -137,7 +136,7 @@
 <span class="text-blue-400">&lt;link</span> <span class="text-blue-200">rel</span>=<span class="text-orange-400">"stylesheet"</span> <span class="text-blue-200">href</span>=<span class="text-orange-400">"https://cdn.jsdelivr.net/gh/esyot/freecon@1731c2a/freecon.css"</span><span class="text-blue-400">&gt;</span>
 
 <span class="text-green-600">&lt;!-- Example usage in your HTML --&gt;</span>
-<span class="text-blue-400">&lt;i</span> <span class="text-blue-200">class</span>=<span class="text-orange-400">"freecon brand-twitter icon-2x icon-blue-500 icon-rounded-full icon-hover"</span><span class="text-blue-400">&gt;&lt;/i&gt;</span>
+<span class="text-blue-400">&lt;i</span> <span class="text-blue-200">class</span>=<span class="text-orange-400">"freecon brand-twitter icon-2x icon-blue-500 icon-rounded-full icon-hover-jump"</span><span class="text-blue-400">&gt;&lt;/i&gt;</span>
       </pre>
         </div>
 
@@ -177,12 +176,70 @@
               <i
                 class="freecon brand-twitter-new-stock icon-2x icon-blue-400"
               ></i>
-              <i class="freecon brand-instagram-stock icon-2x"></i>
+              <i
+                class="freecon brand-instagram-stock icon-2x icon-pink-500"
+              ></i>
+              <i class="freecon brand-linkedin icon-2x icon-blue-700"></i>
+              <i class="freecon brand-telegram-stock icon-2x"></i>
             </div>
-            <p class="text-sm text-gray-600 mt-2">
-              Example classes:
-              <code>freecon brand-facebook icon-2x icon-blue-500</code>
+            <h1 class="text-lg text-gray-600 mt-2">Example usage:</h1>
+
+            <text
+              class="block text-center rounded bg-gray-800 p-2 text-orange-500"
+            >
+              <span class="text-blue-200">class=</span>"freecon brand-facebook
+              icon-2x icon-blue-500"
+            </text>
+            <p class="text-sm text-gray-500 mt-1">
+              <strong>Note:</strong> Many brand icons come in two versions:
             </p>
+            <ul class="list-disc list-inside text-sm text-gray-500 mt-1">
+              <li>
+                <code>brand-[name]</code> — customizable icons that allow you to
+                apply color classes like <b>icon-red-500</b> or
+                <b>icon-blue-500</b> to match your design.
+              </li>
+              <li>
+                <code>brand-[name]-stock</code> — official stock/commercial
+                versions using the original brand colors and style. These do
+                <strong>not</strong> support color changes via utility classes
+                to preserve brand consistency.
+              </li>
+            </ul>
+            <div
+              class="mt-2 bg-gray-50 border border-gray-200 rounded-md p-4 text-sm text-gray-700"
+            >
+              <h3 class="font-semibold text-gray-900 mb-2">
+                Icon Naming Examples
+              </h3>
+              <ul class="list-disc list-inside space-y-1">
+                <li>
+                  <code class="bg-gray-100 px-1 rounded">brand-facebook</code>
+                  vs.
+                  <code class="bg-gray-100 px-1 rounded"
+                    >brand-facebook-stock</code
+                  >
+                </li>
+                <li>
+                  <code class="bg-gray-100 px-1 rounded">brand-instagram</code>
+                  vs.
+                  <code class="bg-gray-100 px-1 rounded"
+                    >brand-instagram-stock</code
+                  >
+                </li>
+                <li>
+                  <code class="bg-gray-100 px-1 rounded">brand-telegram</code>
+                  vs.
+                  <code class="bg-gray-100 px-1 rounded"
+                    >brand-telegram-stock</code
+                  >
+                </li>
+              </ul>
+              <p class="mt-2 text-gray-500">
+                Each "stock" version represents a different visual style of the
+                same brand icon.
+              </p>
+            </div>
           </div>
 
           <!-- Figure Icons -->
@@ -197,10 +254,27 @@
               <i class="freecon icon-heart icon-red-500 icon-2x"></i>
               <i class="freecon icon-check icon-2x icon-green-500"></i>
             </div>
-            <p class="text-sm text-gray-600 mt-2">
-              Example classes:
-              <code>freecon icon-star icon-2x icon-yellow-500</code>
+            <h1 class="text-lg text-gray-600 mt-2">Example usage:</h1>
+
+            <text
+              class="block text-center rounded bg-gray-800 p-2 text-orange-500"
+            >
+              <span class="text-blue-200">class=</span>"freecon icon-star
+              icon-2x icon-yellow-500"
+            </text>
+
+            <p class="text-sm text-gray-500 mt-1">
+              <strong>Note:</strong> Figure icons doesn't have stock versions
+              like the brand icons:
             </p>
+            <ul class="list-disc list-inside text-sm text-gray-500 mt-1">
+              <li>
+                <code>icon-[name]</code> — this icons are customizable icons
+                that allow you to apply color classes like
+                <b>icon-red-500</b> or <b>icon-blue-500</b> to match your
+                design.
+              </li>
+            </ul>
           </div>
 
           <!-- Hover Effects Demo -->
@@ -213,9 +287,9 @@
             >
               <div>
                 <i
-                  class="freecon icon-star icon-2x icon-yellow-500 icon-hover-opacity"
+                  class="freecon icon-star icon-2x icon-yellow-500 icon-hover-fade"
                 ></i>
-                <p class="text-sm mt-2">icon-hover-opacity</p>
+                <p class="text-sm mt-2">icon-hover-fade</p>
               </div>
               <div>
                 <i

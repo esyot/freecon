@@ -813,8 +813,8 @@
   border-bottom-left-radius: 0.25rem;
 }
 
-/* hoveing */
-.icon-hover-opacity:hover {
+/* hovering */
+.icon-hover-fade:hover {
   opacity: 0.5;
   cursor: pointer;
   transition: opacity 0.3s ease, transform 0.3s ease;
@@ -932,4 +932,53 @@
   100% {
     transform: rotateY(360deg);
   }
+}
+
+.icon-hover-fade:active {
+  opacity: 0.5;
+  transform: scale(0.95);
+}
+
+.icon-hover-popin:active {
+  transform: scale(1.2);
+  opacity: 0.5;
+}
+
+.icon-hover-popout:active {
+  transform: scale(0.8);
+  opacity: 0.5;
+}
+
+.icon-hover-slide-r:active {
+  transform: translateX(10px);
+  opacity: 0.5;
+}
+
+.icon-hover-slide-l:active {
+  transform: translateX(-10px);
+  opacity: 0.5;
+}
+
+.icon-hover-slide-u:active {
+  transform: translateY(-10px);
+  opacity: 0.5;
+}
+
+.icon-hover-slide-d:active {
+  transform: translateY(10px);
+  opacity: 0.5;
+}
+
+.icon-hover-jump:active {
+  animation: jumpAnimation 0.6s cubic-bezier(0.4, 0, 0.2, 1);
+  opacity: 0.7;
+}
+
+.icon-hover-squash:active {
+  animation: squashAnimation 0.4s ease;
+  opacity: 0.5;
+}
+
+.icon-hover-flip:active {
+  animation: flipAnimation 0.6s ease;
 }
