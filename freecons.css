@@ -1,0 +1,50 @@
+@import url("/css/icon-sizing.css");
+@import url("/css/icon-coloring.css");
+@import url("/css/icon-rounding.css");
+@import url("/css/icon-hovering.css");
+
+.freecon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  background-color: currentColor;
+  mask-repeat: no-repeat;
+  mask-position: center;
+  mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  -webkit-mask-position: center;
+  -webkit-mask-size: contain;
+}
+
+/* brands */
+
+.brand-facebook {
+  mask-image: url("./icons/brands/fb.svg");
+  -webkit-mask-image: url("./icons/brands/fb.svg");
+}
+
+.brand-instagram {
+  mask-image: url("./icons/brands/ig.svg");
+  -webkit-mask-image: url("./icons/brands/ig.svg");
+}
+
+.brand-instagram-default {
+  background-image: url("./icons/brands/ig-default.svg");
+  background-color: transparent;
+}
+
+.brand-twitter-default {
+  background-image: url("./icons/brands/tt.svg");
+  background-color: transparent;
+}
+
+.brand-twitter-old {
+  mask-image: url("./icons/brands/tt-old.svg");
+  -webkit-mask-image: url("./icons/brands/tt-old.svg");
+}
+
+/* icons */
+.icon-trashcan {
+  mask-image: url("./icons/figures/trashcan.svg");
+  -webkit-mask-image: url("./icons/figures/trashcan.svg");
+}

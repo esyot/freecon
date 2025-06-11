@@ -1,0 +1,71 @@
+.icon-rounded-full {
+  border-radius: 9999px;
+}
+
+.icon-rounded-none {
+  border-radius: 0;
+}
+
+.icon-rounded-sm {
+  border-radius: 0.125rem;
+}
+
+.icon-rounded {
+  border-radius: 0.25rem;
+}
+
+.icon-rounded-md {
+  border-radius: 0.375rem;
+}
+
+.icon-rounded-lg {
+  border-radius: 0.5rem;
+}
+
+.icon-rounded-xl {
+  border-radius: 0.75rem;
+}
+
+.icon-rounded-2xl {
+  border-radius: 1rem;
+}
+
+.icon-rounded-3xl {
+  border-radius: 1.5rem;
+}
+
+.icon-rounded-t {
+  border-top-left-radius: 0.25rem;
+  border-top-right-radius: 0.25rem;
+}
+
+.icon-rounded-r {
+  border-top-right-radius: 0.25rem;
+  border-bottom-right-radius: 0.25rem;
+}
+
+.icon-rounded-b {
+  border-bottom-right-radius: 0.25rem;
+  border-bottom-left-radius: 0.25rem;
+}
+
+.icon-rounded-l {
+  border-top-left-radius: 0.25rem;
+  border-bottom-left-radius: 0.25rem;
+}
+
+.icon-rounded-tl {
+  border-top-left-radius: 0.25rem;
+}
+
+.icon-rounded-tr {
+  border-top-right-radius: 0.25rem;
+}
+
+.icon-rounded-br {
+  border-bottom-right-radius: 0.25rem;
+}
+
+.icon-rounded-bl {
+  border-bottom-left-radius: 0.25rem;
+}

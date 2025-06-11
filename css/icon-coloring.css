@@ -1,0 +1,470 @@
+/* Slate */
+.icon-slate-50 {
+  color: #f8fafc;
+}
+.icon-slate-100 {
+  color: #f1f5f9;
+}
+.icon-slate-200 {
+  color: #e2e8f0;
+}
+.icon-slate-300 {
+  color: #cbd5e1;
+}
+.icon-slate-400 {
+  color: #94a3b8;
+}
+.icon-slate-500 {
+  color: #64748b;
+}
+.icon-slate-600 {
+  color: #475569;
+}
+.icon-slate-700 {
+  color: #334155;
+}
+.icon-slate-800 {
+  color: #1e293b;
+}
+.icon-slate-900 {
+  color: #0f172a;
+}
+
+/* Gray */
+.icon-gray-50 {
+  color: #fafafa;
+}
+.icon-gray-100 {
+  color: #f4f4f5;
+}
+.icon-gray-200 {
+  color: #e4e4e7;
+}
+.icon-gray-300 {
+  color: #d4d4d8;
+}
+.icon-gray-400 {
+  color: #a1a1aa;
+}
+.icon-gray-500 {
+  color: #71717a;
+}
+.icon-gray-600 {
+  color: #52525b;
+}
+.icon-gray-700 {
+  color: #3f3f46;
+}
+.icon-gray-800 {
+  color: #27272a;
+}
+.icon-gray-900 {
+  color: #18181b;
+}
+
+/* Red */
+.icon-red-50 {
+  color: #fef2f2;
+}
+.icon-red-100 {
+  color: #fee2e2;
+}
+.icon-red-200 {
+  color: #fecaca;
+}
+.icon-red-300 {
+  color: #fca5a5;
+}
+.icon-red-400 {
+  color: #f87171;
+}
+.icon-red-500 {
+  color: #ef4444;
+}
+.icon-red-600 {
+  color: #dc2626;
+}
+.icon-red-700 {
+  color: #b91c1c;
+}
+.icon-red-800 {
+  color: #991b1b;
+}
+.icon-red-900 {
+  color: #7f1d1d;
+}
+
+/* Orange */
+.icon-orange-50 {
+  color: #fff7ed;
+}
+.icon-orange-100 {
+  color: #ffedd5;
+}
+.icon-orange-200 {
+  color: #fed7aa;
+}
+.icon-orange-300 {
+  color: #fdba74;
+}
+.icon-orange-400 {
+  color: #fb923c;
+}
+.icon-orange-500 {
+  color: #f97316;
+}
+.icon-orange-600 {
+  color: #ea580c;
+}
+.icon-orange-700 {
+  color: #c2410c;
+}
+.icon-orange-800 {
+  color: #9a3c1c;
+}
+.icon-orange-900 {
+  color: #7c2d12;
+}
+
+/* Yellow */
+.icon-yellow-50 {
+  color: #fefce8;
+}
+.icon-yellow-100 {
+  color: #fef9c3;
+}
+.icon-yellow-200 {
+  color: #fef08a;
+}
+.icon-yellow-300 {
+  color: #fde047;
+}
+.icon-yellow-400 {
+  color: #facc15;
+}
+.icon-yellow-500 {
+  color: #eab308;
+}
+.icon-yellow-600 {
+  color: #ca8a04;
+}
+.icon-yellow-700 {
+  color: #a16207;
+}
+.icon-yellow-800 {
+  color: #854d0e;
+}
+.icon-yellow-900 {
+  color: #713f12;
+}
+
+/* Green */
+.icon-green-50 {
+  color: #f0fdf4;
+}
+.icon-green-100 {
+  color: #dcfce7;
+}
+.icon-green-200 {
+  color: #bbf7d0;
+}
+.icon-green-300 {
+  color: #86efac;
+}
+.icon-green-400 {
+  color: #4ade80;
+}
+.icon-green-500 {
+  color: #22c55e;
+}
+.icon-green-600 {
+  color: #16a34a;
+}
+.icon-green-700 {
+  color: #15803d;
+}
+.icon-green-800 {
+  color: #166534;
+}
+.icon-green-900 {
+  color: #14532d;
+}
+
+/* Emerald */
+.icon-emerald-50 {
+  color: #ecfdf5;
+}
+.icon-emerald-100 {
+  color: #d1fae5;
+}
+.icon-emerald-200 {
+  color: #a7f3d0;
+}
+.icon-emerald-300 {
+  color: #6ee7b7;
+}
+.icon-emerald-400 {
+  color: #34d399;
+}
+.icon-emerald-500 {
+  color: #10b981;
+}
+.icon-emerald-600 {
+  color: #059669;
+}
+.icon-emerald-700 {
+  color: #047857;
+}
+.icon-emerald-800 {
+  color: #065f46;
+}
+.icon-emerald-900 {
+  color: #064e3b;
+}
+
+/* Teal */
+.icon-teal-50 {
+  color: #f0fdfa;
+}
+.icon-teal-100 {
+  color: #ccfbf1;
+}
+.icon-teal-200 {
+  color: #99f6e4;
+}
+.icon-teal-300 {
+  color: #5eead4;
+}
+.icon-teal-400 {
+  color: #2dd4bf;
+}
+.icon-teal-500 {
+  color: #14b8a6;
+}
+.icon-teal-600 {
+  color: #0d9488;
+}
+.icon-teal-700 {
+  color: #0f766e;
+}
+.icon-teal-800 {
+  color: #115e59;
+}
+.icon-teal-900 {
+  color: #134e4a;
+}
+
+/* Cyan */
+.icon-cyan-50 {
+  color: #ecfeff;
+}
+.icon-cyan-100 {
+  color: #cffafe;
+}
+.icon-cyan-200 {
+  color: #a5f3fc;
+}
+.icon-cyan-300 {
+  color: #67e8f9;
+}
+.icon-cyan-400 {
+  color: #22d3ee;
+}
+.icon-cyan-500 {
+  color: #06b6d4;
+}
+.icon-cyan-600 {
+  color: #0891b2;
+}
+.icon-cyan-700 {
+  color: #0e7490;
+}
+.icon-cyan-800 {
+  color: #155e75;
+}
+.icon-cyan-900 {
+  color: #164e63;
+}
+
+/* Sky */
+.icon-sky-50 {
+  color: #f0f9ff;
+}
+.icon-sky-100 {
+  color: #e0f2fe;
+}
+.icon-sky-200 {
+  color: #bae6fd;
+}
+.icon-sky-300 {
+  color: #7dd3fc;
+}
+.icon-sky-400 {
+  color: #38bdf8;
+}
+.icon-sky-500 {
+  color: #0ea5e9;
+}
+.icon-sky-600 {
+  color: #0284c7;
+}
+.icon-sky-700 {
+  color: #0369a1;
+}
+.icon-sky-800 {
+  color: #075985;
+}
+.icon-sky-900 {
+  color: #0c4a6e;
+}
+
+/* Blue */
+.icon-blue-50 {
+  color: #eff6ff;
+}
+.icon-blue-100 {
+  color: #dbeafe;
+}
+.icon-blue-200 {
+  color: #bfdbfe;
+}
+.icon-blue-300 {
+  color: #93c5fd;
+}
+.icon-blue-400 {
+  color: #60a5fa;
+}
+.icon-blue-500 {
+  color: #3b82f6;
+}
+.icon-blue-600 {
+  color: #2563eb;
+}
+.icon-blue-700 {
+  color: #1d4ed8;
+}
+.icon-blue-800 {
+  color: #1e40af;
+}
+.icon-blue-900 {
+  color: #1e3a8a;
+}
+
+/* Indigo */
+.icon-indigo-50 {
+  color: #eef2ff;
+}
+.icon-indigo-100 {
+  color: #e0e7ff;
+}
+.icon-indigo-200 {
+  color: #c7d2fe;
+}
+.icon-indigo-300 {
+  color: #a5b4fc;
+}
+.icon-indigo-400 {
+  color: #818cf8;
+}
+.icon-indigo-500 {
+  color: #6366f1;
+}
+.icon-indigo-600 {
+  color: #4f46e5;
+}
+.icon-indigo-700 {
+  color: #4338ca;
+}
+.icon-indigo-800 {
+  color: #3730a3;
+}
+.icon-indigo-900 {
+  color: #312e81;
+}
+
+/* Violet */
+.icon-violet-50 {
+  color: #f5f3ff;
+}
+.icon-violet-100 {
+  color: #ede9fe;
+}
+.icon-violet-200 {
+  color: #ddd6fe;
+}
+.icon-violet-300 {
+  color: #c4b5fd;
+}
+.icon-violet-400 {
+  color: #a78bfa;
+}
+.icon-violet-500 {
+  color: #8b5cf6;
+}
+.icon-violet-600 {
+  color: #7c3aed;
+}
+.icon-violet-700 {
+  color: #6d28d9;
+}
+.icon-violet-800 {
+  color: #5b21b6;
+}
+.icon-violet-900 {
+  color: #4c1d95;
+}
+
+/* Purple */
+.icon-purple-50 {
+  color: #faf5ff;
+}
+.icon-purple-100 {
+  color: #f3e8ff;
+}
+.icon-purple-200 {
+  color: #e9d5ff;
+}
+.icon-purple-300 {
+  color: #d8b4fe;
+}
+.icon-purple-400 {
+  color: #c084fc;
+}
+.icon-purple-500 {
+  color: #a855f7;
+}
+.icon-purple-600 {
+  color: #9333ea;
+}
+.icon-purple-700 {
+  color: #7e22ce;
+}
+.icon-purple-800 {
+  color: #6b21a8;
+}
+.icon-purple-900 {
+  color: #581c87;
+}
+
+/* Fuchsia */
+.icon-fuchsia-50 {
+  color: #fdf4ff;
+}
+.icon-fuchsia-100 {
+  color: #fae8ff;
+}
+.icon-fuchsia-200 {
+  color: #f5d0fe;
+}
+.icon-fuchsia-300 {
+  color: #f0abfc;
+}
+.icon-fuchsia-400 {
+  color: #e879f9;
+}
+.icon-fuchsia-500 {
+  color: #d946ef;
+}
+.icon-fuchsia-600 {
+  color: #c026d3;
+}
