@@ -2,6 +2,7 @@
 @import url("https://cdn.jsdelivr.net/gh/esyot/freecon@latest/css/icon-coloring.css");
 @import url("https://cdn.jsdelivr.net/gh/esyot/freecon@latest/css/icon-rounding.css");
 @import url("https://cdn.jsdelivr.net/gh/esyot/freecon@latest/css/icon-hovering.css");
+@import url("https://cdn.jsdelivr.net/gh/esyot/freecon@latest/css/icon-effects.css");
 
 .freecon {
   display: inline-block;
@@ -15,7 +16,6 @@
   -webkit-mask-position: center;
   -webkit-mask-size: contain;
 }
-
 /* brands */
 .brand-facebook {
   mask-image: url("./icons/brands/fb.svg");
@@ -29,11 +29,19 @@
 
 .brand-instagram-default {
   background-image: url("./icons/brands/ig-default.svg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  display: inline-block;
   background-color: transparent;
 }
 
 .brand-twitter-default {
   background-image: url("./icons/brands/tt.svg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  display: inline-block;
   background-color: transparent;
 }
 
@@ -48,12 +56,20 @@
 }
 
 .brand-gmail-default {
-  background-image: url("./icons/brands/gm-default.svg");
+  background-image: url("./icons/brands/gm.svg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  display: inline-block;
   background-color: transparent;
 }
 
 .brand-telegram-default {
   background-image: url("./icons/brands/tg-default.svg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  display: inline-block;
   background-color: transparent;
 }
 
@@ -106,4 +122,12 @@
 .icon-chevron-circle-up {
   mask-image: url("./icons/figures/chevron-circle-up.svg");
   -webkit-mask-image: url("./icons/figures/chevron-circle-up.svg");
+}
+.icon-user-male {
+  mask-image: url("./icons/figures/user-male.svg");
+  -webkit-mask-image: url("./icons/figures/user-male.svg");
+}
+.icon-user-female {
+  mask-image: url("./icons/figures/user-female.svg");
+  -webkit-mask-image: url("./icons/figures/user-female.svg");
 }
