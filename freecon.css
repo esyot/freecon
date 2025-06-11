@@ -173,9 +173,9 @@
   mask-image: url("./icons/figures/hamburger.svg");
   -webkit-mask-image: url("./icons/figures/hamburger.svg");
 }
-.icon-sign {
-  mask-image: url("./icons/figures/sign.svg");
-  -webkit-mask-image: url("./icons/figures/sign.svg");
+.icon-sign-out {
+  mask-image: url("./icons/figures/sign-out.svg");
+  -webkit-mask-image: url("./icons/figures/sign-out.svg");
 }
 .icon-circle {
   mask-image: url("./icons/figures/circle.svg");
@@ -210,17 +210,17 @@
   mask-image: url("./icons/figures/chevron-circle-down.svg");
   -webkit-mask-image: url("./icons/figures/chevron-circle-down.svg");
 }
-.icon-chevron-circle-left {
-  mask-image: url("./icons/figures/chevron-circle-left.svg");
-  -webkit-mask-image: url("./icons/figures/chevron-circle-left.svg");
-}
-.icon-chevron-circle-left {
-  mask-image: url("./icons/figures/chevron-circle-left.svg");
-  -webkit-mask-image: url("./icons/figures/chevron-circle-left.svg");
-}
 .icon-chevron-circle-up {
   mask-image: url("./icons/figures/chevron-circle-up.svg");
   -webkit-mask-image: url("./icons/figures/chevron-circle-up.svg");
+}
+.icon-chevron-circle-left {
+  mask-image: url("./icons/figures/chevron-circle-left.svg");
+  -webkit-mask-image: url("./icons/figures/chevron-circle-left.svg");
+}
+.icon-chevron-circle-right {
+  mask-image: url("./icons/figures/chevron-circle-right.svg");
+  -webkit-mask-image: url("./icons/figures/chevron-circle-right.svg");
 }
 .icon-user-male {
   mask-image: url("./icons/figures/user-male.svg");
