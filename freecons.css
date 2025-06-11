@@ -17,7 +17,6 @@
 }
 
 /* brands */
-
 .brand-facebook {
   mask-image: url("./icons/brands/fb.svg");
   -webkit-mask-image: url("./icons/brands/fb.svg");
@@ -41,6 +40,19 @@
 .brand-twitter-old {
   mask-image: url("./icons/brands/tt-old.svg");
   -webkit-mask-image: url("./icons/brands/tt-old.svg");
+}
+
+.brand-linkedin {
+  mask-image: url("./icons/brands/li.svg");
+  -webkit-mask-image: url("./icons/brands/li.svg");
+}
+.brand-gmail-default {
+  mask-image: url("./icons/brands/gm-default.svg");
+  -webkit-mask-image: url("./icons/brands/gm-default.svg");
+}
+.brand-telegram-default {
+  mask-image: url("./icons/brands/tg-default.svg");
+  -webkit-mask-image: url("./icons/brands/tg-default.svg");
 }
 
 /* icons */
@@ -68,4 +80,28 @@
 .icon-world-globe {
   mask-image: url("./icons/figures/world-globe.svg");
   -webkit-mask-image: url("./icons/figures/world-globe.svg");
+}
+.icon-star {
+  mask-image: url("./icons/figures/star.svg");
+  -webkit-mask-image: url("./icons/figures/star.svg");
+}
+.icon-info {
+  mask-image: url("./icons/figures/info.svg");
+  -webkit-mask-image: url("./icons/figures/info.svg");
+}
+.icon-chevron-circle-down {
+  mask-image: url("./icons/figures/chevron-circle-down.svg");
+  -webkit-mask-image: url("./icons/figures/chevron-circle-down.svg");
+}
+.icon-chevron-circle-left {
+  mask-image: url("./icons/figures/chevron-circle-left.svg");
+  -webkit-mask-image: url("./icons/figures/chevron-circle-left.svg");
+}
+.icon-chevron-circle-left {
+  mask-image: url("./icons/figures/chevron-circle-left.svg");
+  -webkit-mask-image: url("./icons/figures/chevron-circle-left.svg");
+}
+.icon-chevron-circle-up {
+  mask-image: url("./icons/figures/chevron-circle-up.svg");
+  -webkit-mask-image: url("./icons/figures/chevron-circle-up.svg");
 }
