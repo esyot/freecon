@@ -52,3 +52,20 @@
   mask-image: url("./icons/figures/circle.svg");
   -webkit-mask-image: url("./icons/figures/circle.svg");
 }
+.icon-target {
+  mask-image: url("./icons/figures/target.svg");
+  -webkit-mask-image: url("./icons/figures/target.svg");
+}
+
+.icon-spark {
+  mask-image: url("./icons/figures/spark.svg");
+  -webkit-mask-image: url("./icons/figures/spark.svg");
+}
+.icon-pencil {
+  mask-image: url("./icons/figures/pencil.svg");
+  -webkit-mask-image: url("./icons/figures/pencil.svg");
+}
+.icon-world-globe {
+  mask-image: url("./icons/figures/world-globe.svg");
+  -webkit-mask-image: url("./icons/figures/world-globe.svg");
+}
