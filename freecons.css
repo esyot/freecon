@@ -46,13 +46,14 @@
   mask-image: url("./icons/brands/li.svg");
   -webkit-mask-image: url("./icons/brands/li.svg");
 }
+
 .brand-gmail-default {
-  mask-image: url("./icons/brands/gm-default.svg");
-  -webkit-mask-image: url("./icons/brands/gm-default.svg");
+  background-image: url("./icons/brands/gm-default.svg");
+  background-color: transparent;
 }
 .brand-telegram-default {
-  mask-image: url("./icons/brands/tg-default.svg");
-  -webkit-mask-image: url("./icons/brands/tg-default.svg");
+  background-image: url("./icons/brands/tg-default.svg");
+  background-color: transparent;
 }
 
 /* icons */
