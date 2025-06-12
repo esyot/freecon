@@ -286,6 +286,14 @@
   mask-image: url("./icons/figures/check.svg");
   -webkit-mask-image: url("./icons/figures/check.svg");
 }
+.icon-phone {
+  mask-image: url("./icons/figures/phone.svg");
+  -webkit-mask-image: url("./icons/figures/phone.svg");
+}
+.icon-envelope {
+  mask-image: url("./icons/figures/envelope.svg");
+  -webkit-mask-image: url("./icons/figures/envelope.svg");
+}
 
 /* flags */
 .flag-ph {
