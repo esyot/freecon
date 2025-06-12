@@ -331,32 +331,99 @@
 
 /* Sizing */
 
-.icon-sm {
+.text-icon-sm {
+  font-size: 0.5rem;
+}
+.text-icon-md {
   font-size: 0.75rem;
 }
-.icon-md {
+.text-icon-lg {
   font-size: 1rem;
 }
-.icon-lg {
+.text-icon-xl {
   font-size: 1.5rem;
 }
-.icon-2x {
+.text-icon-2xl {
   font-size: 2rem;
 }
-.icon-3x {
+.text-icon-3xl {
   font-size: 3rem;
 }
-.icon-4x {
+.text-icon-4xl {
   font-size: 4rem;
 }
-.icon-5x {
+.text-icon-5xl {
   font-size: 5rem;
 }
-.icon-6x {
+.text-icon-6xl {
   font-size: 6rem;
 }
 
 /* coloring */
+
+/* Zinc */
+.icon-zinc-50 {
+  color: #fafafa;
+}
+.icon-zinc-100 {
+  color: #f4f4f5;
+}
+.icon-zinc-200 {
+  color: #e4e4e7;
+}
+.icon-zinc-300 {
+  color: #d4d4d8;
+}
+.icon-zinc-400 {
+  color: #a1a1aa;
+}
+.icon-zinc-500 {
+  color: #71717a;
+}
+.icon-zinc-600 {
+  color: #52525b;
+}
+.icon-zinc-700 {
+  color: #3f3f46;
+}
+.icon-zinc-800 {
+  color: #27272a;
+}
+.icon-zinc-900 {
+  color: #18181b;
+}
+
+/* Neutral */
+.icon-neutral-50 {
+  color: #fafafa;
+}
+.icon-neutral-100 {
+  color: #f5f5f5;
+}
+.icon-neutral-200 {
+  color: #e5e5e5;
+}
+.icon-neutral-300 {
+  color: #d4d4d4;
+}
+.icon-neutral-400 {
+  color: #a3a3a3;
+}
+.icon-neutral-500 {
+  color: #737373;
+}
+.icon-neutral-600 {
+  color: #525252;
+}
+.icon-neutral-700 {
+  color: #404040;
+}
+.icon-neutral-800 {
+  color: #262626;
+}
+.icon-neutral-900 {
+  color: #171717;
+}
 
 /* Slate */
 .icon-slate-50 {
@@ -827,6 +894,79 @@
 }
 .icon-fuchsia-600 {
   color: #c026d3;
+}
+.icon-fuchsia-700 {
+  color: #a21caf;
+}
+.icon-fuchsia-800 {
+  color: #86198f;
+}
+.icon-fuchsia-900 {
+  color: #701a75;
+}
+/* Pink */
+.icon-pink-50 {
+  color: #fdf2f8;
+}
+.icon-pink-100 {
+  color: #fce7f3;
+}
+.icon-pink-200 {
+  color: #fbcfe8;
+}
+.icon-pink-300 {
+  color: #f9a8d4;
+}
+.icon-pink-400 {
+  color: #f472b6;
+}
+.icon-pink-500 {
+  color: #ec4899;
+}
+.icon-pink-600 {
+  color: #db2777;
+}
+.icon-pink-700 {
+  color: #be185d;
+}
+.icon-pink-800 {
+  color: #9d174d;
+}
+.icon-pink-900 {
+  color: #831843;
+}
+
+/* Stone */
+
+.icon-stone-50 {
+  color: #fafaf9;
+}
+.icon-stone-100 {
+  color: #f5f5f4;
+}
+.icon-stone-200 {
+  color: #e7e5e4;
+}
+.icon-stone-300 {
+  color: #d6d3d1;
+}
+.icon-stone-400 {
+  color: #a8a29e;
+}
+.icon-stone-500 {
+  color: #78716c;
+}
+.icon-stone-600 {
+  color: #57534e;
+}
+.icon-stone-700 {
+  color: #44403c;
+}
+.icon-stone-800 {
+  color: #292524;
+}
+.icon-stone-900 {
+  color: #1c1917;
 }
 
 /* rounding */
