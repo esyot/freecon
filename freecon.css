@@ -331,31 +331,31 @@
 
 /* Sizing */
 
-.text-icon-sm {
+.icon-sm {
   font-size: 0.5rem;
 }
-.text-icon-md {
+.icon-md {
   font-size: 0.75rem;
 }
-.text-icon-lg {
+.icon-lg {
   font-size: 1rem;
 }
-.text-icon-xl {
+.icon-xl {
   font-size: 1.5rem;
 }
-.text-icon-2xl {
+.icon-2xl {
   font-size: 2rem;
 }
-.text-icon-3xl {
+.icon-3xl {
   font-size: 3rem;
 }
-.text-icon-4xl {
+.icon-4xl {
   font-size: 4rem;
 }
-.text-icon-5xl {
+.icon-5xl {
   font-size: 5rem;
 }
-.text-icon-6xl {
+.icon-6xl {
   font-size: 6rem;
 }
 
