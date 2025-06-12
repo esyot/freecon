@@ -1,0 +1,995 @@
+.icon-hover-fade:hover,
+.icon-hover-jump:hover,
+.icon-hover-popin:hover,
+.icon-hover-popout:hover,
+.icon-hover-slide-d:hover,
+.icon-hover-slide-l:hover,
+.icon-hover-slide-r:hover,
+.icon-hover-slide-u:hover,
+.icon-hover-squash:hover {
+  transition: opacity 0.3s, transform 0.3s;
+  cursor: pointer;
+}
+.freecon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  background-color: currentColor;
+  mask-repeat: no-repeat;
+  mask-position: center;
+  mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  -webkit-mask-position: center;
+  -webkit-mask-size: contain;
+}
+.brand-bdo-stock,
+.brand-dict-stock,
+.brand-facebook-stock,
+.brand-gcash-stock,
+.brand-gmail-stock,
+.brand-instagram-stock,
+.brand-linkedin-stock,
+.brand-mlhuillier-stock,
+.brand-nbi-stock,
+.brand-paypal-stock,
+.brand-pnb-stock,
+.brand-psa-stock,
+.brand-telegram-stock,
+.brand-twitter-new-stock,
+.brand-twitter-old-stock,
+.brand-youtube-stock,
+.flag-ch,
+.flag-jp,
+.flag-ph,
+.flag-us {
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  display: inline-block;
+  background-color: transparent;
+}
+.brand-facebook {
+  mask-image: url("./icons/brands/fb.svg");
+  -webkit-mask-image: url("./icons/brands/fb.svg");
+}
+.brand-facebook-stock {
+  background-image: url("./icons/brands/fb-stock.svg");
+}
+.brand-instagram {
+  mask-image: url("./icons/brands/ig.svg");
+  -webkit-mask-image: url("./icons/brands/ig.svg");
+}
+.brand-gcash {
+  mask-image: url("./icons/brands/gc.svg");
+  -webkit-mask-image: url("./icons/brands/gc.svg");
+}
+.brand-paypal {
+  mask-image: url("./icons/brands/pp.svg");
+  -webkit-mask-image: url("./icons/brands/pp.svg");
+}
+.brand-mlhuillier {
+  mask-image: url("./icons/brands/ml.svg");
+  -webkit-mask-image: url("./icons/brands/ml.svg");
+}
+.brand-instagram-stock {
+  background-image: url("./icons/brands/ig-stock.svg");
+}
+.brand-bdo-stock {
+  background-image: url("./icons/brands/bdo-stock.svg");
+}
+.brand-pnb-stock {
+  background-image: url("./icons/brands/pnb-stock.svg");
+}
+.brand-nbi-stock {
+  background-image: url("./icons/brands/nbi-stock.svg");
+}
+.brand-dict-stock {
+  background-image: url("./icons/brands/dict-stock.svg");
+}
+.brand-psa-stock {
+  background-image: url("./icons/brands/psa-stock.svg");
+}
+.brand-mlhuillier-stock {
+  background-image: url("./icons/brands/ml-stock.svg");
+}
+.brand-paypal-stock {
+  background-image: url("./icons/brands/pp-stock.svg");
+}
+.brand-gcash-stock {
+  background-image: url("./icons/brands/gc-stock.svg");
+}
+.brand-twitter-new-stock {
+  background-image: url("./icons/brands/tt-new-stock.svg");
+}
+.brand-twitter-old-stock {
+  background-image: url("./icons/brands/tt-old-stock.svg");
+}
+.brand-linkedin-stock {
+  background-image: url("./icons/brands/linkedin-stock.svg");
+}
+.brand-twitter-old {
+  mask-image: url("./icons/brands/tt-old.svg");
+  -webkit-mask-image: url("./icons/brands/tt-old.svg");
+}
+.brand-linkedin {
+  mask-image: url("./icons/brands/li.svg");
+  -webkit-mask-image: url("./icons/brands/li.svg");
+}
+.brand-telegram {
+  mask-image: url("./icons/brands/tg.svg");
+  -webkit-mask-image: url("./icons/brands/li.svg");
+}
+.brand-gmail-stock {
+  background-image: url("./icons/brands/gm-stock.svg");
+}
+.brand-youtube {
+  mask-image: url("./icons/brands/yt.svg");
+  -webkit-mask-image: url("./icons/brands/yt.svg");
+}
+.brand-youtube-stock {
+  background-image: url("./icons/brands/yt-stock.svg");
+}
+.brand-telegram-stock {
+  background-image: url("./icons/brands/tg-stock.svg");
+}
+.icon-trashcan {
+  mask-image: url("./icons/figures/trashcan.svg");
+  -webkit-mask-image: url("./icons/figures/trashcan.svg");
+}
+.icon-plus-rounded-line {
+  mask-image: url("./icons/figures/plus-rounded-line.svg");
+  -webkit-mask-image: url("./icons/figures/plus-rounded-line.svg");
+}
+.icon-minus-rounded-line {
+  mask-image: url("./icons/figures/minus-rounded-line.svg");
+  -webkit-mask-image: url("./icons/figures/minus-rounded-line.svg");
+}
+.icon-magnifying-glass {
+  mask-image: url("./icons/figures/magnifying-glass.svg");
+  -webkit-mask-image: url("./icons/figures/magnifying-glass.svg");
+}
+.icon-home {
+  mask-image: url("./icons/figures/home.svg");
+  -webkit-mask-image: url("./icons/figures/home.svg");
+}
+.icon-heart {
+  mask-image: url("./icons/figures/heart.svg");
+  -webkit-mask-image: url("./icons/figures/heart.svg");
+}
+.icon-send {
+  mask-image: url("./icons/figures/send.svg");
+  -webkit-mask-image: url("./icons/figures/send.svg");
+}
+.icon-hamburger {
+  mask-image: url("./icons/figures/hamburger.svg");
+  -webkit-mask-image: url("./icons/figures/hamburger.svg");
+}
+.icon-sign-out {
+  mask-image: url("./icons/figures/sign-out.svg");
+  -webkit-mask-image: url("./icons/figures/sign-out.svg");
+}
+.icon-circle {
+  mask-image: url("./icons/figures/circle.svg");
+  -webkit-mask-image: url("./icons/figures/circle.svg");
+}
+.icon-target {
+  mask-image: url("./icons/figures/target.svg");
+  -webkit-mask-image: url("./icons/figures/target.svg");
+}
+.icon-spark {
+  mask-image: url("./icons/figures/spark.svg");
+  -webkit-mask-image: url("./icons/figures/spark.svg");
+}
+.icon-pencil {
+  mask-image: url("./icons/figures/pencil.svg");
+  -webkit-mask-image: url("./icons/figures/pencil.svg");
+}
+.icon-world-globe {
+  mask-image: url("./icons/figures/world-globe.svg");
+  -webkit-mask-image: url("./icons/figures/world-globe.svg");
+}
+.icon-star {
+  mask-image: url("./icons/figures/star.svg");
+  -webkit-mask-image: url("./icons/figures/star.svg");
+}
+.icon-info {
+  mask-image: url("./icons/figures/info.svg");
+  -webkit-mask-image: url("./icons/figures/info.svg");
+}
+.icon-chevron-circle-down {
+  mask-image: url("./icons/figures/chevron-circle-down.svg");
+  -webkit-mask-image: url("./icons/figures/chevron-circle-down.svg");
+}
+.icon-chevron-circle-up {
+  mask-image: url("./icons/figures/chevron-circle-up.svg");
+  -webkit-mask-image: url("./icons/figures/chevron-circle-up.svg");
+}
+.icon-chevron-circle-left {
+  mask-image: url("./icons/figures/chevron-circle-left.svg");
+  -webkit-mask-image: url("./icons/figures/chevron-circle-left.svg");
+}
+.icon-chevron-circle-right {
+  mask-image: url("./icons/figures/chevron-circle-right.svg");
+  -webkit-mask-image: url("./icons/figures/chevron-circle-right.svg");
+}
+.icon-user-male {
+  mask-image: url("./icons/figures/user-male.svg");
+  -webkit-mask-image: url("./icons/figures/user-male.svg");
+}
+.icon-user-female {
+  mask-image: url("./icons/figures/user-female.svg");
+  -webkit-mask-image: url("./icons/figures/user-female.svg");
+}
+.icon-close {
+  mask-image: url("./icons/figures/close.svg");
+  -webkit-mask-image: url("./icons/figures/close.svg");
+}
+.icon-check {
+  mask-image: url("./icons/figures/check.svg");
+  -webkit-mask-image: url("./icons/figures/check.svg");
+}
+.icon-phone {
+  mask-image: url("./icons/figures/phone.svg");
+  -webkit-mask-image: url("./icons/figures/phone.svg");
+}
+.icon-envelope {
+  mask-image: url("./icons/figures/envelope.svg");
+  -webkit-mask-image: url("./icons/figures/envelope.svg");
+}
+.icon-copy {
+  mask-image: url("./icons/figures/copy.svg");
+  -webkit-mask-image: url("./icons/figures/copy.svg");
+}
+.icon-briefcase {
+  mask-image: url("./icons/figures/briefcase.svg");
+  -webkit-mask-image: url("./icons/figures/briefcase.svg");
+}
+.flag-ph {
+  background-image: url("./icons/flags/ph.svg");
+}
+.flag-us {
+  background-image: url("./icons/flags/us.svg");
+}
+.flag-jp {
+  background-image: url("./icons/flags/jp.svg");
+}
+.flag-ch {
+  background-image: url("./icons/flags/ch.svg");
+}
+.icon-sm {
+  font-size: 0.5rem;
+}
+.icon-md {
+  font-size: 0.75rem;
+}
+.icon-lg {
+  font-size: 1rem;
+}
+.icon-xl {
+  font-size: 1.5rem;
+}
+.icon-2x {
+  font-size: 2rem;
+}
+.icon-3x {
+  font-size: 3rem;
+}
+.icon-4x {
+  font-size: 4rem;
+}
+.icon-5x {
+  font-size: 5rem;
+}
+.icon-6x {
+  font-size: 6rem;
+}
+.icon-gray-50,
+.icon-neutral-50,
+.icon-zinc-50 {
+  color: #fafafa;
+}
+.icon-gray-100,
+.icon-zinc-100 {
+  color: #f4f4f5;
+}
+.icon-gray-200,
+.icon-zinc-200 {
+  color: #e4e4e7;
+}
+.icon-gray-300,
+.icon-zinc-300 {
+  color: #d4d4d8;
+}
+.icon-gray-400,
+.icon-zinc-400 {
+  color: #a1a1aa;
+}
+.icon-gray-500,
+.icon-zinc-500 {
+  color: #71717a;
+}
+.icon-gray-600,
+.icon-zinc-600 {
+  color: #52525b;
+}
+.icon-gray-700,
+.icon-zinc-700 {
+  color: #3f3f46;
+}
+.icon-gray-800,
+.icon-zinc-800 {
+  color: #27272a;
+}
+.icon-gray-900,
+.icon-zinc-900 {
+  color: #18181b;
+}
+.icon-neutral-100 {
+  color: #f5f5f5;
+}
+.icon-neutral-200 {
+  color: #e5e5e5;
+}
+.icon-neutral-300 {
+  color: #d4d4d4;
+}
+.icon-neutral-400 {
+  color: #a3a3a3;
+}
+.icon-neutral-500 {
+  color: #737373;
+}
+.icon-neutral-600 {
+  color: #525252;
+}
+.icon-neutral-700 {
+  color: #404040;
+}
+.icon-neutral-800 {
+  color: #262626;
+}
+.icon-neutral-900 {
+  color: #171717;
+}
+.icon-slate-50 {
+  color: #f8fafc;
+}
+.icon-slate-100 {
+  color: #f1f5f9;
+}
+.icon-slate-200 {
+  color: #e2e8f0;
+}
+.icon-slate-300 {
+  color: #cbd5e1;
+}
+.icon-slate-400 {
+  color: #94a3b8;
+}
+.icon-slate-500 {
+  color: #64748b;
+}
+.icon-slate-600 {
+  color: #475569;
+}
+.icon-slate-700 {
+  color: #334155;
+}
+.icon-slate-800 {
+  color: #1e293b;
+}
+.icon-slate-900 {
+  color: #0f172a;
+}
+.icon-red-50 {
+  color: #fef2f2;
+}
+.icon-red-100 {
+  color: #fee2e2;
+}
+.icon-red-200 {
+  color: #fecaca;
+}
+.icon-red-300 {
+  color: #fca5a5;
+}
+.icon-red-400 {
+  color: #f87171;
+}
+.icon-red-500 {
+  color: #ef4444;
+}
+.icon-red-600 {
+  color: #dc2626;
+}
+.icon-red-700 {
+  color: #b91c1c;
+}
+.icon-red-800 {
+  color: #991b1b;
+}
+.icon-red-900 {
+  color: #7f1d1d;
+}
+.icon-orange-50 {
+  color: #fff7ed;
+}
+.icon-orange-100 {
+  color: #ffedd5;
+}
+.icon-orange-200 {
+  color: #fed7aa;
+}
+.icon-orange-300 {
+  color: #fdba74;
+}
+.icon-orange-400 {
+  color: #fb923c;
+}
+.icon-orange-500 {
+  color: #f97316;
+}
+.icon-orange-600 {
+  color: #ea580c;
+}
+.icon-orange-700 {
+  color: #c2410c;
+}
+.icon-orange-800 {
+  color: #9a3c1c;
+}
+.icon-orange-900 {
+  color: #7c2d12;
+}
+.icon-yellow-50 {
+  color: #fefce8;
+}
+.icon-yellow-100 {
+  color: #fef9c3;
+}
+.icon-yellow-200 {
+  color: #fef08a;
+}
+.icon-yellow-300 {
+  color: #fde047;
+}
+.icon-yellow-400 {
+  color: #facc15;
+}
+.icon-yellow-500 {
+  color: #eab308;
+}
+.icon-yellow-600 {
+  color: #ca8a04;
+}
+.icon-yellow-700 {
+  color: #a16207;
+}
+.icon-yellow-800 {
+  color: #854d0e;
+}
+.icon-yellow-900 {
+  color: #713f12;
+}
+.icon-green-50 {
+  color: #f0fdf4;
+}
+.icon-green-100 {
+  color: #dcfce7;
+}
+.icon-green-200 {
+  color: #bbf7d0;
+}
+.icon-green-300 {
+  color: #86efac;
+}
+.icon-green-400 {
+  color: #4ade80;
+}
+.icon-green-500 {
+  color: #22c55e;
+}
+.icon-green-600 {
+  color: #16a34a;
+}
+.icon-green-700 {
+  color: #15803d;
+}
+.icon-green-800 {
+  color: #166534;
+}
+.icon-green-900 {
+  color: #14532d;
+}
+.icon-emerald-50 {
+  color: #ecfdf5;
+}
+.icon-emerald-100 {
+  color: #d1fae5;
+}
+.icon-emerald-200 {
+  color: #a7f3d0;
+}
+.icon-emerald-300 {
+  color: #6ee7b7;
+}
+.icon-emerald-400 {
+  color: #34d399;
+}
+.icon-emerald-500 {
+  color: #10b981;
+}
+.icon-emerald-600 {
+  color: #059669;
+}
+.icon-emerald-700 {
+  color: #047857;
+}
+.icon-emerald-800 {
+  color: #065f46;
+}
+.icon-emerald-900 {
+  color: #064e3b;
+}
+.icon-teal-50 {
+  color: #f0fdfa;
+}
+.icon-teal-100 {
+  color: #ccfbf1;
+}
+.icon-teal-200 {
+  color: #99f6e4;
+}
+.icon-teal-300 {
+  color: #5eead4;
+}
+.icon-teal-400 {
+  color: #2dd4bf;
+}
+.icon-teal-500 {
+  color: #14b8a6;
+}
+.icon-teal-600 {
+  color: #0d9488;
+}
+.icon-teal-700 {
+  color: #0f766e;
+}
+.icon-teal-800 {
+  color: #115e59;
+}
+.icon-teal-900 {
+  color: #134e4a;
+}
+.icon-cyan-50 {
+  color: #ecfeff;
+}
+.icon-cyan-100 {
+  color: #cffafe;
+}
+.icon-cyan-200 {
+  color: #a5f3fc;
+}
+.icon-cyan-300 {
+  color: #67e8f9;
+}
+.icon-cyan-400 {
+  color: #22d3ee;
+}
+.icon-cyan-500 {
+  color: #06b6d4;
+}
+.icon-cyan-600 {
+  color: #0891b2;
+}
+.icon-cyan-700 {
+  color: #0e7490;
+}
+.icon-cyan-800 {
+  color: #155e75;
+}
+.icon-cyan-900 {
+  color: #164e63;
+}
+.icon-sky-50 {
+  color: #f0f9ff;
+}
+.icon-sky-100 {
+  color: #e0f2fe;
+}
+.icon-sky-200 {
+  color: #bae6fd;
+}
+.icon-sky-300 {
+  color: #7dd3fc;
+}
+.icon-sky-400 {
+  color: #38bdf8;
+}
+.icon-sky-500 {
+  color: #0ea5e9;
+}
+.icon-sky-600 {
+  color: #0284c7;
+}
+.icon-sky-700 {
+  color: #0369a1;
+}
+.icon-sky-800 {
+  color: #075985;
+}
+.icon-sky-900 {
+  color: #0c4a6e;
+}
+.icon-blue-50 {
+  color: #eff6ff;
+}
+.icon-blue-100 {
+  color: #dbeafe;
+}
+.icon-blue-200 {
+  color: #bfdbfe;
+}
+.icon-blue-300 {
+  color: #93c5fd;
+}
+.icon-blue-400 {
+  color: #60a5fa;
+}
+.icon-blue-500 {
+  color: #3b82f6;
+}
+.icon-blue-600 {
+  color: #2563eb;
+}
+.icon-blue-700 {
+  color: #1d4ed8;
+}
+.icon-blue-800 {
+  color: #1e40af;
+}
+.icon-blue-900 {
+  color: #1e3a8a;
+}
+.icon-indigo-50 {
+  color: #eef2ff;
+}
+.icon-indigo-100 {
+  color: #e0e7ff;
+}
+.icon-indigo-200 {
+  color: #c7d2fe;
+}
+.icon-indigo-300 {
+  color: #a5b4fc;
+}
+.icon-indigo-400 {
+  color: #818cf8;
+}
+.icon-indigo-500 {
+  color: #6366f1;
+}
+.icon-indigo-600 {
+  color: #4f46e5;
+}
+.icon-indigo-700 {
+  color: #4338ca;
+}
+.icon-indigo-800 {
+  color: #3730a3;
+}
+.icon-indigo-900 {
+  color: #312e81;
+}
+.icon-violet-50 {
+  color: #f5f3ff;
+}
+.icon-violet-100 {
+  color: #ede9fe;
+}
+.icon-violet-200 {
+  color: #ddd6fe;
+}
+.icon-violet-300 {
+  color: #c4b5fd;
+}
+.icon-violet-400 {
+  color: #a78bfa;
+}
+.icon-violet-500 {
+  color: #8b5cf6;
+}
+.icon-violet-600 {
+  color: #7c3aed;
+}
+.icon-violet-700 {
+  color: #6d28d9;
+}
+.icon-violet-800 {
+  color: #5b21b6;
+}
+.icon-violet-900 {
+  color: #4c1d95;
+}
+.icon-purple-50 {
+  color: #faf5ff;
+}
+.icon-purple-100 {
+  color: #f3e8ff;
+}
+.icon-purple-200 {
+  color: #e9d5ff;
+}
+.icon-purple-300 {
+  color: #d8b4fe;
+}
+.icon-purple-400 {
+  color: #c084fc;
+}
+.icon-purple-500 {
+  color: #a855f7;
+}
+.icon-purple-600 {
+  color: #9333ea;
+}
+.icon-purple-700 {
+  color: #7e22ce;
+}
+.icon-purple-800 {
+  color: #6b21a8;
+}
+.icon-purple-900 {
+  color: #581c87;
+}
+.icon-fuchsia-50 {
+  color: #fdf4ff;
+}
+.icon-fuchsia-100 {
+  color: #fae8ff;
+}
+.icon-fuchsia-200 {
+  color: #f5d0fe;
+}
+.icon-fuchsia-300 {
+  color: #f0abfc;
+}
+.icon-fuchsia-400 {
+  color: #e879f9;
+}
+.icon-fuchsia-500 {
+  color: #d946ef;
+}
+.icon-fuchsia-600 {
+  color: #c026d3;
+}
+.icon-fuchsia-700 {
+  color: #a21caf;
+}
+.icon-fuchsia-800 {
+  color: #86198f;
+}
+.icon-fuchsia-900 {
+  color: #701a75;
+}
+.icon-pink-50 {
+  color: #fdf2f8;
+}
+.icon-pink-100 {
+  color: #fce7f3;
+}
+.icon-pink-200 {
+  color: #fbcfe8;
+}
+.icon-pink-300 {
+  color: #f9a8d4;
+}
+.icon-pink-400 {
+  color: #f472b6;
+}
+.icon-pink-500 {
+  color: #ec4899;
+}
+.icon-pink-600 {
+  color: #db2777;
+}
+.icon-pink-700 {
+  color: #be185d;
+}
+.icon-pink-800 {
+  color: #9d174d;
+}
+.icon-pink-900 {
+  color: #831843;
+}
+.icon-stone-50 {
+  color: #fafaf9;
+}
+.icon-stone-100 {
+  color: #f5f5f4;
+}
+.icon-stone-200 {
+  color: #e7e5e4;
+}
+.icon-stone-300 {
+  color: #d6d3d1;
+}
+.icon-stone-400 {
+  color: #a8a29e;
+}
+.icon-stone-500 {
+  color: #78716c;
+}
+.icon-stone-600 {
+  color: #57534e;
+}
+.icon-stone-700 {
+  color: #44403c;
+}
+.icon-stone-800 {
+  color: #292524;
+}
+.icon-stone-900 {
+  color: #1c1917;
+}
+.icon-rounded-full {
+  border-radius: 9999px;
+}
+.icon-rounded-none {
+  border-radius: 0;
+}
+.icon-rounded-sm {
+  border-radius: 0.125rem;
+}
+.icon-rounded {
+  border-radius: 0.25rem;
+}
+.icon-rounded-md {
+  border-radius: 0.375rem;
+}
+.icon-rounded-lg {
+  border-radius: 0.5rem;
+}
+.icon-rounded-xl {
+  border-radius: 0.75rem;
+}
+.icon-rounded-2xl {
+  border-radius: 1rem;
+}
+.icon-rounded-3xl {
+  border-radius: 1.5rem;
+}
+.icon-rounded-l,
+.icon-rounded-t,
+.icon-rounded-tl {
+  border-top-left-radius: 0.25rem;
+}
+.icon-rounded-r,
+.icon-rounded-t,
+.icon-rounded-tr {
+  border-top-right-radius: 0.25rem;
+}
+.icon-rounded-b,
+.icon-rounded-br,
+.icon-rounded-r {
+  border-bottom-right-radius: 0.25rem;
+}
+.icon-rounded-b,
+.icon-rounded-bl,
+.icon-rounded-l {
+  border-bottom-left-radius: 0.25rem;
+}
+.icon-hover-fade:hover {
+  opacity: 0.5;
+}
+.icon-hover-popin:hover {
+  transform: scale(1.2);
+  opacity: 0.5;
+}
+.icon-hover-popout:hover {
+  transform: scale(0.8);
+  opacity: 0.5;
+}
+.icon-hover-slide-r:hover {
+  transform: translateX(10px);
+  opacity: 0.5;
+}
+.icon-hover-slide-l:hover {
+  transform: translateX(-10px);
+  opacity: 0.5;
+}
+.icon-hover-slide-u:hover {
+  transform: translateY(-10px);
+  opacity: 0.5;
+}
+.icon-hover-slide-d:hover {
+  transform: translateY(10px);
+  opacity: 0.5;
+}
+.icon-hover-jump:hover {
+  animation: 0.6s cubic-bezier(0.4, 0, 0.2, 1) jumpAnimation;
+  opacity: 0.7;
+}
+@keyframes jumpAnimation {
+  0%,
+  100%,
+  80% {
+    transform: translateY(0) scale(1);
+  }
+  20% {
+    transform: translateY(-25px) scale(1.1, 0.9);
+  }
+  40% {
+    transform: translateY(0) scale(0.9, 1.1);
+  }
+  60% {
+    transform: translateY(-10px) scale(1.05, 0.95);
+  }
+}
+.icon-hover-squash:hover {
+  animation: 0.4s squashAnimation;
+  opacity: 0.5;
+}
+@keyframes squashAnimation {
+  0%,
+  100% {
+    transform: scale(1, 1);
+  }
+  50% {
+    transform: scale(1.4, 0.6);
+  }
+}
+.icon-hover-flip:hover {
+  animation: 0.6s flipAnimation;
+  cursor: pointer;
+  transition: transform 0.3s;
+}
+@keyframes flipAnimation {
+  0% {
+    transform: rotateY(0);
+  }
+  50% {
+    transform: rotateY(180deg);
+  }
+  100% {
+    transform: rotateY(360deg);
+  }
+}
+.icon-hover-fade:active {
+  opacity: 0.5;
+  transform: scale(0.95);
+}
+.icon-hover-popin:active {
+  transform: scale(1.2);
+  opacity: 0.5;
+}
+.icon-hover-popout:active {
+  transform: scale(0.8);
+  opacity: 0.5;
+}
+.icon-hover-slide-r:active {
+  transform: translateX(10px);
+  opacity: 0.5;
+}
+.icon-hover-slide-l:active {
+  transform: translateX(-10px);
+  opacity: 0.5;
+}
+.icon-hover-slide-u:active {
+  transform: translateY(-10px);
+  opacity: 0.5;
+}
+.icon-hover-slide-d:active {
+  transform: translateY(10px);
+  opacity: 0.5;
+}
+.icon-hover-jump:active {
+  animation: 0.6s cubic-bezier(0.4, 0, 0.2, 1) jumpAnimation;
+  opacity: 0.7;
+}
+.icon-hover-squash:active {
+  animation: 0.4s squashAnimation;
+  opacity: 0.5;
+}
+.icon-hover-flip:active {
+  animation: 0.6s flipAnimation;
+}
