@@ -298,6 +298,10 @@
   mask-image: url("./icons/figures/copy.svg");
   -webkit-mask-image: url("./icons/figures/copy.svg");
 }
+.icon-briefcase {
+  mask-image: url("./icons/figures/briefcase.svg");
+  -webkit-mask-image: url("./icons/figures/briefcase.svg");
+}
 
 /* flags */
 .flag-ph {
