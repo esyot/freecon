@@ -294,6 +294,10 @@
   mask-image: url("./icons/figures/envelope.svg");
   -webkit-mask-image: url("./icons/figures/envelope.svg");
 }
+.icon-copy {
+  mask-image: url("./icons/figures/copy.svg");
+  -webkit-mask-image: url("./icons/figures/copy.svg");
+}
 
 /* flags */
 .flag-ph {
