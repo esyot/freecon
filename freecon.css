@@ -262,6 +262,23 @@
   mask-image: url("./icons/figures/info.svg");
   -webkit-mask-image: url("./icons/figures/info.svg");
 }
+
+.icon-chevron-down {
+  mask-image: url("./icons/figures/chevron-down.svg");
+  -webkit-mask-image: url("./icons/figures/chevron-down.svg");
+}
+.icon-chevron-up {
+  mask-image: url("./icons/figures/chevron-up.svg");
+  -webkit-mask-image: url("./icons/figures/chevron-up.svg");
+}
+.icon-chevron-left {
+  mask-image: url("./icons/figures/chevron-left.svg");
+  -webkit-mask-image: url("./icons/figures/chevron-left.svg");
+}
+.icon-chevron-right {
+  mask-image: url("./icons/figures/chevron-right.svg");
+  -webkit-mask-image: url("./icons/figures/chevron-right.svg");
+}
 .icon-chevron-circle-down {
   mask-image: url("./icons/figures/chevron-circle-down.svg");
   -webkit-mask-image: url("./icons/figures/chevron-circle-down.svg");
