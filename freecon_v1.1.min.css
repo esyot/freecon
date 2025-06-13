@@ -136,6 +136,14 @@
   mask-image: url("./icons/figures/trashcan.svg");
   -webkit-mask-image: url("./icons/figures/trashcan.svg");
 }
+.icon-map-pin {
+  mask-image: url("./icons/figures/map-pin.svg");
+  -webkit-mask-image: url("./icons/figures/map-pin.svg");
+}
+.icon-camera {
+  mask-image: url("./icons/figures/camera.svg");
+  -webkit-mask-image: url("./icons/figures/camera.svg");
+}
 .icon-plus-rounded-line {
   mask-image: url("./icons/figures/plus-rounded-line.svg");
   -webkit-mask-image: url("./icons/figures/plus-rounded-line.svg");
@@ -220,9 +228,13 @@
   mask-image: url("./icons/figures/user-female.svg");
   -webkit-mask-image: url("./icons/figures/user-female.svg");
 }
-.icon-close {
-  mask-image: url("./icons/figures/close.svg");
-  -webkit-mask-image: url("./icons/figures/close.svg");
+.icon-close-thin {
+  mask-image: url("./icons/figures/close-thin.svg");
+  -webkit-mask-image: url("./icons/figures/close-thin.svg");
+}
+.icon-close-thick {
+  mask-image: url("./icons/figures/close-thick.svg");
+  -webkit-mask-image: url("./icons/figures/close-thick.svg");
 }
 .icon-check {
   mask-image: url("./icons/figures/check.svg");

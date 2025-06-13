@@ -286,9 +286,13 @@
   mask-image: url("./icons/figures/user-female.svg");
   -webkit-mask-image: url("./icons/figures/user-female.svg");
 }
-.icon-close {
-  mask-image: url("./icons/figures/close.svg");
-  -webkit-mask-image: url("./icons/figures/close.svg");
+.icon-close-thin {
+  mask-image: url("./icons/figures/close-thin.svg");
+  -webkit-mask-image: url("./icons/figures/close-thin.svg");
+}
+.icon-close-thick {
+  mask-image: url("./icons/figures/close-thick.svg");
+  -webkit-mask-image: url("./icons/figures/close-thick.svg");
 }
 .icon-check {
   mask-image: url("./icons/figures/check.svg");
