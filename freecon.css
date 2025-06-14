@@ -193,6 +193,10 @@
   mask-image: url("./icons/figures/trashcan.svg");
   -webkit-mask-image: url("./icons/figures/trashcan.svg");
 }
+.icon-basket {
+  mask-image: url("./icons/figures/basket.svg");
+  -webkit-mask-image: url("./icons/figures/basket.svg");
+}
 .icon-bell {
   mask-image: url("./icons/figures/bell.svg");
   -webkit-mask-image: url("./icons/figures/bell.svg");
