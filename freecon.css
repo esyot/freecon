@@ -193,6 +193,18 @@
   mask-image: url("./icons/figures/trashcan.svg");
   -webkit-mask-image: url("./icons/figures/trashcan.svg");
 }
+.icon-bell {
+  mask-image: url("./icons/figures/bell.svg");
+  -webkit-mask-image: url("./icons/figures/bell.svg");
+}
+.icon-four-squares {
+  mask-image: url("./icons/figures/four-squares.svg");
+  -webkit-mask-image: url("./icons/figures/four-squares.svg");
+}
+.icon-house-key {
+  mask-image: url("./icons/figures/house-key.svg");
+  -webkit-mask-image: url("./icons/figures/house-key.svg");
+}
 .icon-map-pin {
   mask-image: url("./icons/figures/map-pin.svg");
   -webkit-mask-image: url("./icons/figures/map-pin.svg");
