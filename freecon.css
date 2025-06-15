@@ -24,6 +24,22 @@
   display: inline-block;
   background-color: transparent;
 }
+.brand-tlktok-stock {
+  background-image: url("./icons/brands/ttok-stock.svg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  display: inline-block;
+  background-color: transparent;
+}
+.brand-google-stock {
+  background-image: url("./icons/brands/gg-stock.svg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  display: inline-block;
+  background-color: transparent;
+}
 
 .brand-instagram {
   mask-image: url("./icons/brands/ig.svg");
