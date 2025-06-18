@@ -363,6 +363,14 @@
   mask-image: url("./icons/figures/briefcase.svg");
   -webkit-mask-image: url("./icons/figures/briefcase.svg");
 }
+.icon-eye-open {
+  mask-image: url("./icons/figures/eye-open.svg");
+  -webkit-mask-image: url("./icons/figures/eye-open.svg");
+}
+.icon-eye-slashed {
+  mask-image: url("./icons/figures/eye-slashed.svg");
+  -webkit-mask-image: url("./icons/figures/eye-slashed.svg");
+}
 
 /* flags */
 .flag-ph {
