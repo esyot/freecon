@@ -371,6 +371,10 @@
   mask-image: url("./icons/figures/eye-slashed.svg");
   -webkit-mask-image: url("./icons/figures/eye-slashed.svg");
 }
+.icon-share {
+  mask-image: url("./icons/figures/share.svg");
+  -webkit-mask-image: url("./icons/figures/share.svg");
+}
 
 /* flags */
 .flag-ph {
@@ -438,6 +442,10 @@
 
 /* coloring */
 
+/* White */
+.icon-white {
+  color: #fff;
+}
 /* Zinc */
 .icon-zinc-50 {
   color: #fafafa;
