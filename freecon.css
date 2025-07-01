@@ -399,6 +399,10 @@
   mask-image: url("./icons/figures/family.svg");
   -webkit-mask-image: url("./icons/figures/family.svg");
 }
+.icon-wifi {
+  mask-image: url("./icons/figures/wifi.svg");
+  -webkit-mask-image: url("./icons/figures/wifi.svg");
+}
 
 /* flags */
 .flag-ph {
