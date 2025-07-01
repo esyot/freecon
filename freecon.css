@@ -290,9 +290,9 @@
   mask-image: url("./icons/figures/star.svg");
   -webkit-mask-image: url("./icons/figures/star.svg");
 }
-.icon-info {
-  mask-image: url("./icons/figures/info.svg");
-  -webkit-mask-image: url("./icons/figures/info.svg");
+.icon-info-circle {
+  mask-image: url("./icons/figures/info-circle.svg");
+  -webkit-mask-image: url("./icons/figures/info-circle.svg");
 }
 
 .icon-chevron-down {
@@ -374,6 +374,18 @@
 .icon-share {
   mask-image: url("./icons/figures/share.svg");
   -webkit-mask-image: url("./icons/figures/share.svg");
+}
+.icon-bed {
+  mask-image: url("./icons/figures/bed.svg");
+  -webkit-mask-image: url("./icons/figures/bed.svg");
+}
+.icon-leaf {
+  mask-image: url("./icons/figures/leaf.svg");
+  -webkit-mask-image: url("./icons/figures/leaf.svg");
+}
+.icon-utensils {
+  mask-image: url("./icons/figures/utensils.svg");
+  -webkit-mask-image: url("./icons/figures/utensils.svg");
 }
 
 /* flags */
