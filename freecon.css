@@ -387,6 +387,18 @@
   mask-image: url("./icons/figures/utensils.svg");
   -webkit-mask-image: url("./icons/figures/utensils.svg");
 }
+.icon-no-smoking-circle {
+  mask-image: url("./icons/figures/no-smoking-circle.svg");
+  -webkit-mask-image: url("./icons/figures/no-smoking-circle.svg");
+}
+.icon-parking-circle {
+  mask-image: url("./icons/figures/parking-circle.svg");
+  -webkit-mask-image: url("./icons/figures/parking-circle.svg");
+}
+.icon-family {
+  mask-image: url("./icons/figures/family.svg");
+  -webkit-mask-image: url("./icons/figures/family.svg");
+}
 
 /* flags */
 .flag-ph {
