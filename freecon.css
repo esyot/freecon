@@ -217,6 +217,10 @@
   mask-image: url("./icons/figures/cart-line.svg");
   -webkit-mask-image: url("./icons/figures/cart-line.svg");
 }
+.icon-user-headphone {
+  mask-image: url("./icons/figures/user-headphone.svg");
+  -webkit-mask-image: url("./icons/figures/user-headphone.svg");
+}
 .icon-bell {
   mask-image: url("./icons/figures/bell.svg");
   -webkit-mask-image: url("./icons/figures/bell.svg");
