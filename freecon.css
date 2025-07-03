@@ -225,6 +225,10 @@
   mask-image: url("./icons/figures/bell.svg");
   -webkit-mask-image: url("./icons/figures/bell.svg");
 }
+.icon-calendar-blank {
+  mask-image: url("./icons/figures/calendar-blank.svg");
+  -webkit-mask-image: url("./icons/figures/calendar-blank.svg");
+}
 .icon-four-squares {
   mask-image: url("./icons/figures/four-squares.svg");
   -webkit-mask-image: url("./icons/figures/four-squares.svg");
