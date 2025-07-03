@@ -213,6 +213,10 @@
   mask-image: url("./icons/figures/basket.svg");
   -webkit-mask-image: url("./icons/figures/basket.svg");
 }
+.icon-cart-line {
+  mask-image: url("./icons/figures/cart-line.svg");
+  -webkit-mask-image: url("./icons/figures/cart-line.svg");
+}
 .icon-bell {
   mask-image: url("./icons/figures/bell.svg");
   -webkit-mask-image: url("./icons/figures/bell.svg");
