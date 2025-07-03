@@ -245,6 +245,10 @@
   mask-image: url("./icons/figures/camera.svg");
   -webkit-mask-image: url("./icons/figures/camera.svg");
 }
+.icon-car {
+  mask-image: url("./icons/figures/car.svg");
+  -webkit-mask-image: url("./icons/figures/car.svg");
+}
 .icon-plus-rounded-line {
   mask-image: url("./icons/figures/plus-rounded-line.svg");
   -webkit-mask-image: url("./icons/figures/plus-rounded-line.svg");
