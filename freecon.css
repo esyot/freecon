@@ -419,6 +419,26 @@
   mask-image: url("./icons/figures/wifi.svg");
   -webkit-mask-image: url("./icons/figures/wifi.svg");
 }
+.icon-check-circle {
+  mask-image: url("./icons/figures/check-circle.svg");
+  -webkit-mask-image: url("./icons/figures/check-circle.svg");
+}
+.icon-exclamation-circle {
+  mask-image: url("./icons/figures/exclamation-circle.svg");
+  -webkit-mask-image: url("./icons/figures/exclamation-circle.svg");
+}
+.icon-question-circle {
+  mask-image: url("./icons/figures/question-circle.svg");
+  -webkit-mask-image: url("./icons/figures/question-circle.svg");
+}
+.icon-namecard {
+  mask-image: url("./icons/figures/namecard.svg");
+  -webkit-mask-image: url("./icons/figures/namecard.svg");
+}
+.icon-lock {
+  mask-image: url("./icons/figures/lock.svg");
+  -webkit-mask-image: url("./icons/figures/lock.svg");
+}
 
 /* flags */
 .flag-ph {
