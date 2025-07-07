@@ -439,6 +439,10 @@
   mask-image: url("./icons/figures/lock.svg");
   -webkit-mask-image: url("./icons/figures/lock.svg");
 }
+.icon-exchange {
+  mask-image: url("./icons/figures/exchange.svg");
+  -webkit-mask-image: url("./icons/figures/exchange.svg");
+}
 
 /* flags */
 .flag-ph {
