@@ -443,6 +443,10 @@
   mask-image: url("./icons/figures/exchange.svg");
   -webkit-mask-image: url("./icons/figures/exchange.svg");
 }
+.icon-ellipsis-v {
+  mask-image: url("./icons/figures/ellipsis-v.svg");
+  -webkit-mask-image: url("./icons/figures/ellipsis-v.svg");
+}
 
 /* flags */
 .flag-ph {
