@@ -447,6 +447,10 @@
   mask-image: url("./icons/figures/ellipsis-v.svg");
   -webkit-mask-image: url("./icons/figures/ellipsis-v.svg");
 }
+.icon-contact-book {
+  mask-image: url("./icons/figures/contact-book.svg");
+  -webkit-mask-image: url("./icons/figures/contact-book.svg");
+}
 
 /* flags */
 .flag-ph {
