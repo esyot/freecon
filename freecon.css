@@ -12,6 +12,15 @@
 }
 
 /* brands */
+.brand-spotify-stock {
+  mask-image: url("./icons/brands/stf-stock.svg");
+  -webkit-mask-image: url("./icons/brands/stf-stock.svg");
+}
+.brand-apple-music-stock {
+  mask-image: url("./icons/brands/am-stock.svg");
+  -webkit-mask-image: url("./icons/brands/am-stock.svg");
+}
+
 .brand-facebook {
   mask-image: url("./icons/brands/fb.svg");
   -webkit-mask-image: url("./icons/brands/fb.svg");
