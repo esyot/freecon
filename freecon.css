@@ -13,14 +13,21 @@
 
 /* brands */
 .brand-spotify-stock {
-  mask-image: url("./icons/brands/stf-stock.svg");
-  -webkit-mask-image: url("./icons/brands/stf-stock.svg");
+  background-image: url("./icons/brands/stf-stock.svg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  display: inline-block;
+  background-color: transparent;
 }
 .brand-apple-music-stock {
-  mask-image: url("./icons/brands/am-stock.svg");
-  -webkit-mask-image: url("./icons/brands/am-stock.svg");
+  background-image: url("./icons/brands/am-stock.svg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  display: inline-block;
+  background-color: transparent;
 }
-
 .brand-facebook {
   mask-image: url("./icons/brands/fb.svg");
   -webkit-mask-image: url("./icons/brands/fb.svg");
