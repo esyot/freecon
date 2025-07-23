@@ -20,6 +20,14 @@
   display: inline-block;
   background-color: transparent;
 }
+.brand-amazon-music-stock {
+  background-image: url("./icons/brands/azm-stock.svg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  display: inline-block;
+  background-color: transparent;
+}
 .brand-apple-music-stock {
   background-image: url("./icons/brands/am-stock.svg");
   background-repeat: no-repeat;
