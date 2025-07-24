@@ -253,6 +253,10 @@
   mask-image: url("./icons/figures/calendar-blank.svg");
   -webkit-mask-image: url("./icons/figures/calendar-blank.svg");
 }
+.icon-calendar-tiles {
+  mask-image: url("./icons/figures/calendar-tiles.svg");
+  -webkit-mask-image: url("./icons/figures/calendar-tiles.svg");
+}
 .icon-four-squares {
   mask-image: url("./icons/figures/four-squares.svg");
   -webkit-mask-image: url("./icons/figures/four-squares.svg");
