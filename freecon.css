@@ -229,6 +229,30 @@
 }
 
 /* icons */
+.icon-gauge {
+  mask-image: url("./icons/figures/gauge.svg");
+  -webkit-mask-image: url("./icons/figures/gauge.svg");
+}
+.icon-inbox {
+  mask-image: url("./icons/figures/inbox.svg");
+  -webkit-mask-image: url("./icons/figures/inbox.svg");
+}
+.icon-credit-card {
+  mask-image: url("./icons/figures/credit-card.svg");
+  -webkit-mask-image: url("./icons/figures/credit-card.svg");
+}
+.icon-people {
+  mask-image: url("./icons/figures/people.svg");
+  -webkit-mask-image: url("./icons/figures/people.svg");
+}
+.icon-boxes {
+  mask-image: url("./icons/figures/boxes.svg");
+  -webkit-mask-image: url("./icons/figures/boxes.svg");
+}
+.icon-list {
+  mask-image: url("./icons/figures/list.svg");
+  -webkit-mask-image: url("./icons/figures/list.svg");
+}
 .icon-trashcan {
   mask-image: url("./icons/figures/trashcan.svg");
   -webkit-mask-image: url("./icons/figures/trashcan.svg");
