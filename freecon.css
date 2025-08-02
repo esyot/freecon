@@ -249,9 +249,13 @@
   mask-image: url("./icons/figures/boxes.svg");
   -webkit-mask-image: url("./icons/figures/boxes.svg");
 }
-.icon-list {
-  mask-image: url("./icons/figures/list.svg");
-  -webkit-mask-image: url("./icons/figures/list.svg");
+.icon-book-open {
+  mask-image: url("./icons/figures/book-open.svg");
+  -webkit-mask-image: url("./icons/figures/book-open.svg");
+}
+.icon-list-rounded {
+  mask-image: url("./icons/figures/list-rounded.svg");
+  -webkit-mask-image: url("./icons/figures/list-rounded.svg");
 }
 .icon-trashcan {
   mask-image: url("./icons/figures/trashcan.svg");
