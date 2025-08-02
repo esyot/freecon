@@ -277,6 +277,10 @@
   mask-image: url("./icons/figures/bell.svg");
   -webkit-mask-image: url("./icons/figures/bell.svg");
 }
+.icon-lock {
+  mask-image: url("./icons/figures/lock.svg");
+  -webkit-mask-image: url("./icons/figures/lock.svg");
+}
 .icon-calendar-blank {
   mask-image: url("./icons/figures/calendar-blank.svg");
   -webkit-mask-image: url("./icons/figures/calendar-blank.svg");
@@ -491,10 +495,7 @@
   mask-image: url("./icons/figures/namecard.svg");
   -webkit-mask-image: url("./icons/figures/namecard.svg");
 }
-.icon-lock {
-  mask-image: url("./icons/figures/lock.svg");
-  -webkit-mask-image: url("./icons/figures/lock.svg");
-}
+
 .icon-exchange {
   mask-image: url("./icons/figures/exchange.svg");
   -webkit-mask-image: url("./icons/figures/exchange.svg");
