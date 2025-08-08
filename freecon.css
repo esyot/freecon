@@ -229,6 +229,14 @@
 }
 
 /* icons */
+.icon-double-chevron-right {
+  mask-image: url("./icons/figures/double-chevron-right.svg");
+  -webkit-mask-image: url("./icons/figures/double-chevron-right.svg");
+}
+.icon-double-chevron-left {
+  mask-image: url("./icons/figures/double-chevron-left.svg");
+  -webkit-mask-image: url("./icons/figures/double-chevron-left.svg");
+}
 .icon-filter {
   mask-image: url("./icons/figures/filter.svg");
   -webkit-mask-image: url("./icons/figures/filter.svg");
