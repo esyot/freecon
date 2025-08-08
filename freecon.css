@@ -233,6 +233,10 @@
   mask-image: url("./icons/figures/chart.svg");
   -webkit-mask-image: url("./icons/figures/chart.svg");
 }
+.icon-magnifying-glass {
+  mask-image: url("./icons/figures/magnifying-glass.svg");
+  -webkit-mask-image: url("./icons/figures/magnifying-glass.svg");
+}
 .icon-gauge {
   mask-image: url("./icons/figures/gauge.svg");
   -webkit-mask-image: url("./icons/figures/gauge.svg");
