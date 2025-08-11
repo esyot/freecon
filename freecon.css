@@ -229,6 +229,10 @@
 }
 
 /* icons */
+.icon-ticket-percentage {
+  mask-image: url("./icons/figures/ticket-percentage.svg");
+  -webkit-mask-image: url("./icons/figures/ticket-percentage.svg");
+}
 .icon-double-chevron-right {
   mask-image: url("./icons/figures/double-chevron-right.svg");
   -webkit-mask-image: url("./icons/figures/double-chevron-right.svg");
