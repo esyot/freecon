@@ -229,6 +229,10 @@
 }
 
 /* icons */
+.icon-page {
+  mask-image: url("./icons/figures/page.svg");
+  -webkit-mask-image: url("./icons/figures/page.svg");
+}
 .icon-cog {
   mask-image: url("./icons/figures/cog.svg");
   -webkit-mask-image: url("./icons/figures/cog.svg");
