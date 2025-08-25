@@ -583,26 +583,6 @@
   background-color: transparent;
 }
 
-/* Stroke */
-.icon-stroke-1 {
-  stroke-width: 1px;
-}
-.icon-stroke-2 {
-  stroke-width: 2px;
-}
-.icon-stroke-3 {
-  stroke-width: 3px;
-}
-.icon-stroke-4 {
-  stroke-width: 4px;
-}
-.icon-stroke-5 {
-  stroke-width: 5px;
-}
-.icon-stroke-6 {
-  stroke-width: 6px;
-}
-
 /* Sizing */
 
 .icon-xs {
