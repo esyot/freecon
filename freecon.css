@@ -229,6 +229,18 @@
 }
 
 /* icons */
+.icon-list-filter {
+  mask-image: url("./icons/figures/list-filter.svg");
+  -webkit-mask-image: url("./icons/figures/list-filter.svg");
+}
+.icon-ascending-list-filter {
+  mask-image: url("./icons/figures/ascending-list-filter.svg");
+  -webkit-mask-image: url("./icons/figures/ascending-list-filter.svg");
+}
+.icon-descending-list-filter {
+  mask-image: url("./icons/figures/descending-list-filter.svg");
+  -webkit-mask-image: url("./icons/figures/descending-list-filter.svg");
+}
 .icon-page {
   mask-image: url("./icons/figures/page.svg");
   -webkit-mask-image: url("./icons/figures/page.svg");
