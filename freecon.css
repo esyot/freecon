@@ -233,6 +233,10 @@
   mask-image: url("./icons/figures/hike.svg");
   -webkit-mask-image: url("./icons/figures/hike.svg");
 }
+.icon-tools {
+  mask-image: url("./icons/figures/tools.svg");
+  -webkit-mask-image: url("./icons/figures/tools.svg");
+}
 .icon-list-filter {
   mask-image: url("./icons/figures/list-filter.svg");
   -webkit-mask-image: url("./icons/figures/list-filter.svg");
